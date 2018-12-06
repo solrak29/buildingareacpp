@@ -4,9 +4,9 @@
 namespace BUILDING_CONST {
     typedef int Unit;
     struct Building {
-        Unit X1;
-        Unit X2;    
-        Unit Y;
+        Unit x1;
+        Unit x2;    
+        Unit y;
     };
 }
 #endif
